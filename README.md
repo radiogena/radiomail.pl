@@ -1,1 +1,1 @@
-# radiomail.pl
+# github@nospam.radiomail.pl
